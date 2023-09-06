@@ -16,6 +16,12 @@ Credits:
 		Miniport by HTML5UP (https://html5up.net/miniport)
 		Designed by AJ (https://twitter.com/ajlkn)
 
+	External Links:
+		Institute for Positive Psychology and Education website (https://www.acu.edu.au/research-and-enterprise/our-research-institutes/institute-for-positive-psychology-and-education)
+	
+	Video:
+		Institute for Positive Psychology YouTube channel (https://www.youtube.com/@instituteforpositivepsycho5872)
+
 	Images:
 		Inside Small Business (https://insidesmallbusiness.com.au/management/planning-management/the-as-and-bs-of-achievement)
 		Clipart Library (https://clipart-library.com/clipart/school-principal-clipart-3.htm)
