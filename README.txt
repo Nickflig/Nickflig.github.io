@@ -1,12 +1,13 @@
-Web Design Proposal for COMP208 Assessment 1
+Web Design Proposal for Professor Herb Marsh
 
-The bottom of main.css contains my own custom code, but code was modified throughout all of main.css (and of course the html pages).
+Much of the css file  regarding page spacing was borrowed from a Miniport template as I'm not very talented with coding.
+However, the graphical design is of my own doing. I chose green as the main colour to symbolise growth yet professionality. I am not a graphic designer.
+I also feel light blue would suit very well, or we can go with purple for ACU colour representation.
 
-All buttons functional.
-This web page shows off my ability to not only link to a new page, but also my ability to make buttons and links which navigate to difference sections of the same or fifferent pages.
-Portfolio is on a separate page in order to:
-	1. Show my ability to have these functions across separate pages
-	2. In proper practice, my portfolio of past work should become a long page in future
+All buttons functional. Try them out, anything I couldn't work I just removed since I'm sure I'll redo and redesign swathes of this based on feedback.
+Just keep in mind:
+	1. The website would only be one page as I suspect it would allow for a lighter server load and I feel gives the site a more modern feel
+	2. This is only a first prototype designed to help you get a better feel of what you want from this project - thus serving as means to obtain specific feedback on how this should look.
 
 Credits:
 
